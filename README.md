@@ -1,4 +1,4 @@
-﻿# chandanm-portfolio
-# Portfolio Whatsapp like bot
+# Whatsapp like Portfolio Bot
 https://chandanm-portfolio.vercel.app/
+
 
